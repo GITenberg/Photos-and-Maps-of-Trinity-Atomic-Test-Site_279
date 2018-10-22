@@ -1,5 +1,5 @@
 _repo: Photos-and-Maps-of-Trinity-Atomic-Test-Site_279
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   contributor:
     agent_name: White Sands Missile Range (N.M.). Public Affairs Office
@@ -27,5 +27,6 @@ subjects:
 - !lcc 'D731'
 - !lcsh 'Manhattan Project (U.S.)'
 - !lcc 'U'
+- GITenberg
 title: Photos and Maps of Trinity (Atomic Test) Site
 url: http://www.gutenberg.org/ebooks/279
